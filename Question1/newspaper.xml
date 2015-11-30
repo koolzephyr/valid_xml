@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Gyan">
+        <HEADLINE>Unofficial Blockade</HEADLINE>
+        <BYLINE>Gyan</BYLINE>
+        <LEAD>Kathmandu Daily</LEAD>
+        <BODY>India has imposed unofficial blockade in Nepal.</BODY>
+        <NOTES>Article published are correct and verified.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Rupa" EDITOR="Samun" DATE="11/25/2015" EDITION="45">
+        <HEADLINE>First 100 days Protest in Nepal</HEADLINE>
+        <BYLINE>Rupa</BYLINE>
+        <LEAD>Kathmandu Daily</LEAD>
+        <BODY>Protest being carried out by Madhesi activitist have reached 100 days.</BODY>
+        <NOTES>Article published are correct and verified.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Rakesh" DATE="11/25/2015">
+        <HEADLINE>Leicester City drew against Man United</HEADLINE>
+        <BYLINE>Rakesh</BYLINE>
+        <LEAD>Kathmandu Daily</LEAD>
+        <BODY>Leicester City and Man United both scored 1 goals each.</BODY>
+        <NOTES>Article published are correct and verified.</NOTES>
+    </ARTICLE>
+</NEWSPAPER>
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Employee_Info
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="employee.xsd">
+  <Employee  Employee_Number="0206">
+    <Name>Sameer Koirala</Name>
+    <Department>Data Analytics</Department>
+    <Telephone>9849188508</Telephone>
+    <Email>sameer.koirala@deerwalk.edu.np</Email>
+  </Employee>
+  <Employee  Employee_Number="0216">
+    <Name>Arun Amatya</Name>
+    <Department>Project Management</Department>
+    <Telephone>9845637281</Telephone>
+    <Email>arun.amatya@deerwalk.edu.np</Email>
+  </Employee>
+</Employee_Info>

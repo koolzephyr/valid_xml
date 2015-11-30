@@ -1,0 +1,41 @@
+<!DOCTYPE collection SYSTEM "recipe.dtd">
+<collection>
+    <description>Some recipes I am familiar with.</description>
+    <recipe>
+        <title>Masala Omlette</title>
+        <ingredient name="egg" amount="2"/>
+        <ingredient name="onion, sliced into thin rings" amount="1"/>
+        <ingredient name="green bell pepper, sliced in rings" amount="1"/>
+        <ingredient name="oil" amount="2" unit="tablespoon"/>
+        <ingredient name="capcicum, sliced into small pieces" amount="1/2"/>
+        <ingredient name="Vegetable masala" amount="1" unit="tablespoon"/>
+        <preparation>
+            <step>Heat oil in a frying pan to 104 degrees F (40 degrees C).</step>
+            <step>Crack open eggs in a bowl</step>
+            <step>Add sliced onion, green bell pepper, capcicum and vegetable masala in the bowl</step>
+            <step>Stir contents of the bowl for 30 seconds</step>
+            <step>Add the mixture in the bowl to the frying pan</step>
+            <step>Heat the frying pan for 2 minutes and flig the content in it</step>
+            <step>Again heat the frying pan for 2 minutes</step>    
+        </preparation>
+        <comment>
+            Make sure the contents are stirred properly for better taste.
+        </comment>
+        <nutrition calories="500" fat="23" carbohydrates="45" protein="32"/>
+    </recipe>
+    <recipe>
+        <title>Black Tea</title>
+        <ingredient name="tea powder" amount="1" unit="tablespoon"/>
+        <ingredient name="water" amount="1 and 1/2" unit="cup"/>
+        <ingredient name="sugar" amount="1" unit="tablespoon"/>
+        <ingredient name="tea masala" amount="1/2" unit="tablespoon"/>
+        <preparation>
+            <step>Add water to the cooking bowl and boil it</step>
+            <step>While water is boling add tea powder</step>
+            <step>Add sugar</step>
+            <step>Add tea masala</step>
+            <step>Let the water boil for 10 seconds</step>
+        </preparation>
+        <nutrition calories="500" fat="23" carbohydrates="45" protein="32" alcohol="0"/>
+    </recipe>
+</collection>
